@@ -32,6 +32,7 @@ cd ChatGPT-KnowledgeBoost
 
 ## デプロイ方法
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。 
+<br>
 [外部データを活用した正確なAI回答を実現する方法、ChatGPTとRAGの活用 #Python - Qiita](https://qiita.com/nishifeoda/items/a7299bad7faa0d6e0c6e)
 
 
