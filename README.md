@@ -26,8 +26,8 @@ RAGを活用することで、ChatGPTの回答精度を向上させることが�
 
 ### リポジトリをクローン  
 ```txt
-git clone https://github.com/your-username/chatgpt-rag-enhancer.git
-cd chatgpt-rag-enhancer
+git clone https://github.com/Nakkinakki55/ChatGPT-KnowledgeBoost.git
+cd ChatGPT-KnowledgeBoost
 ```
 
 ## デプロイ方法
